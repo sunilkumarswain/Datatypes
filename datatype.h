@@ -1,0 +1,15 @@
+void runDatatypes();
+void dataExercise1();
+void dataExercise2();
+void dataExercise3();
+void dataExercise4();
+void dataExercise5();
+void dataExercise6();
+void dataExercise7();
+void dataExercise8();
+void dataExercise9();
+void dataExercise10();
+void dataExercise11();
+void dataExercise12();
+void dataExercise13();
+void dataExercise14();
