@@ -1,3 +1,4 @@
+/* Write a C program to implement character manipulations. */
 /*
 1. Convert Character to Integer
 char - '0': Converts a digit character (e.g., '5') to its integer equivalent (5).
